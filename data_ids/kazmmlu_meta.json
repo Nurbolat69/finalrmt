@@ -1,0 +1,27 @@
+{
+  "dataset": "KazMMLU",
+  "language": "Kazakh (Cyrillic)",
+  "reference": "Togmanov et al. (2025). KazMMLU: Evaluating language models on Kazakh, Russian, and regional knowledge of Kazakhstan. ACL 2025.",
+  "source_repository": "https://huggingface.co/datasets/kz-transformers/kaz-mmlu",
+  "sha256": "ddee2772628f8200178634634a6fa4d7813ef789ee4d5d958f8fc243efb98eb1",
+  "total_items": 9800,
+  "invalid_keys_removed": 14,
+  "clean_items": 9786,
+  "evaluation_sample_size": 998,
+  "sampling_strategy": "Stratified across 12 subjects",
+  "sampling_seed": 42,
+  "subjects": {
+    "Geography": 104,
+    "Kazakh_Literature": 104,
+    "World_History": 104,
+    "Biology": 104,
+    "Kazakh_History": 104,
+    "Chemistry": 104,
+    "Math": 103,
+    "Physics": 98,
+    "Kazakh_Language": 97,
+    "Law": 59,
+    "Informatics": 16,
+    "Reading_Literacy": 1
+  }
+}

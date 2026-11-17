@@ -1,0 +1,20 @@
+{
+  "dataset": "FLORES-200",
+  "split": "devtest",
+  "reference": "NLLB Team et al. (2022). No Language Left Behind: Scaling Human-Centered Machine Translation. arXiv:2207.04672.",
+  "source_repository": "https://github.com/facebookresearch/flores",
+  "languages": {
+    "kaz_Cyrl": "Kazakh (Cyrillic)",
+    "eng_Latn": "English"
+  },
+  "n_sentence_pairs": 1012,
+  "sampling_seed": 42,
+  "file_hashes": {
+    "kaz_Cyrl.devtest": "71e2301ba312faa8fc86624913e5bda576d4e5c6d33c48a59a1e899b36ea38ae",
+    "eng_Latn.devtest": "612e9fbe87997617c0fa8fa8929654a4f49b728d96738112c2b86ef6a1d78d88"
+  },
+  "directions_evaluated": [
+    "kk->en (kaz_Cyrl to eng_Latn)",
+    "en->kk (eng_Latn to kaz_Cyrl)"
+  ]
+}

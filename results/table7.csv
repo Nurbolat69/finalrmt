@@ -1,0 +1,6 @@
+Error category,Llama count,Llama pct (%),Sherkala count,Sherkala pct (%)
+Wrong-language response,14,28,4,8
+Knowledge gap,18,36,22,44
+Format failure / refusal,9,18,7,14
+Question copied as answer,5,10,10,20
+Hallucinated option E,4,8,7,14

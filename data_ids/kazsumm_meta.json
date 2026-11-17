@@ -1,0 +1,14 @@
+{
+  "dataset": "KazSumm",
+  "split": "test",
+  "reference": "Zhabayev et al. (2026). Improving Kazakh abstractive summarization with LLMs via domain adaptation and self-correction. Information 17(7), 639.",
+  "source_repository": "https://github.com/assem-a7/KazSumm",
+  "sha256": "ddee2772628f8200178634634a6fa4d7813ef789ee4d5d958f8fc243efb98eb1",
+  "total_test_articles": 2628,
+  "evaluated_sample_size": 500,
+  "sampling_seed": 42,
+  "source_medium": "Tengrinews.kz",
+  "reference_type": "Article headline (median 8 words)",
+  "article_median_length": 220,
+  "copyright_notice": "Full article text is copyrighted by Tengrinews.kz and is not redistributed in accordance with fair use and reproducibility guidelines. Only sample identifiers and hashes are preserved."
+}

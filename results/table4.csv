@@ -1,0 +1,10 @@
+Comparison,Task (primary metric),Difference,95% CI,Holm-corrected p,Significant
+Commercial mean vs. Llama,QA (accuracy),+28.9 pp,"[25.1, 32.5]",< 0.001,Yes
+Commercial mean vs. Llama,MT kk->en (chrF++),+23.0,"[20.4, 25.0]",< 0.001,Yes
+Commercial mean vs. Llama,Summarization (ROUGE-L),+8.4,"[6.8, 10.6]",< 0.001,Yes
+Sherkala vs. Llama,QA (accuracy),+5.5 pp,"[1.9, 9.1]",0.012,Yes
+Sherkala vs. Llama,MT kk->en (chrF++),+5.6,"[3.6, 7.6]",0.008,Yes
+Sherkala vs. Llama,Summarization (ROUGE-L),+3.8,"[1.8, 5.8]",0.019,Yes
+Sherkala vs. commercial mean,QA (accuracy),-23.4 pp,"[-26.9, -19.7]",< 0.001,Yes
+Sherkala vs. commercial mean,MT kk->en (chrF++),-17.4,"[-19.3, -14.9]",< 0.001,Yes
+Sherkala vs. commercial mean,Summarization (ROUGE-L),-4.6,"[-6.2, -3.0]",< 0.001,Yes

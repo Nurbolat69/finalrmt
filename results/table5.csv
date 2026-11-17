@@ -1,0 +1,6 @@
+Task (metric),Commercial mean,Llama,Absolute gap,Relative gap (%),Sherkala - Llama,Gap closed (%)
+QA (accuracy),70.15,41.3,28.9,41.1,+5.5,19.1
+MT kk->en (chrF++),61.55,38.6,23.0,37.3,+5.6,24.4
+MT en->kk (chrF++),53.05,29.4,23.7,44.6,+6.7,28.3
+Summarization (ROUGE-L),30.50,22.1,8.4,27.5,+3.8,45.2
+Summarization (chrF++),37.65,27.3,10.4,27.5,+4.4,42.5
